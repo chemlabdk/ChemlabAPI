@@ -1,5 +1,5 @@
 # What is ChemlabAPI?
-This is the brain behind chemlab.dk and all its subservices. The API is open for everyone to use for their own projects and tools, just be aware that you will be blocked if you spam the API. You are welcome to contribute to the project, add features, fixing bugs, etc. Just look at the CONTRIBUTING.md before you begin!
+This is the brain behind chemlab.dk and all its subservices. The API is open for everyone to use for their own projects and tools, just be aware that you will be blocked if you spam the API.
 
 # Contributing
 Everyone is welcome to contribute to the project. You can add new features, fix bugs, etc., you just have to be aware that it is not certain that we will approve your pull requests. We can reject without reason, which we most likely won't do, because we want to have as many functions as possible.
